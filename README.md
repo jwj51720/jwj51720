@@ -1,6 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwj51720)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✔ Hi there, This is wonjun's Github
+## ✔ Wonjun's Github
 안녕하세요. 장원준입니다.
 AI 엔지니어가 되기 위해 공부하고 있습니다.
 
