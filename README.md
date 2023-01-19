@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwj51720)](https://github.com/anuraghazra/github-readme-stats)
+[![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwj51720&show_icons=true&theme=vue&count_private=true)
 
 ## ✔ Wonjun's Github
 안녕하세요. 장원준입니다.
