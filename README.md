@@ -1,7 +1,8 @@
 ![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwj51720&show_icons=true&theme=vue&count_private=true)
 
 ## ✔ Wonjun's Github
-안녕하세요. 장원준입니다. 데이터와 인공지능에 관심이 있습니다.
+안녕하세요. 장원준입니다. 
+데이터와 인공지능에 관심이 있습니다.
 데이터 사이언티스트/AI 엔지니어가 되기 위해 공부하고 있습니다.
 
 ## ✔ Experiences
