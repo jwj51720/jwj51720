@@ -10,7 +10,7 @@
 - `2022.09 ~ 2023.02` 네이버 커넥트재단 - 부스트캠프 AI Tech 4기
 
 ## ✔ Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-A8B9CC?style=flat&logo=C&logoColor=#F7DF1E"/>
 
 ## ✔ Undergraduate Courseworks
 |    Semester    |           Lecture          |               Lecture Name in English              |
