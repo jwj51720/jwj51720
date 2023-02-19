@@ -5,6 +5,10 @@
 데이터와 인공지능에 관심이 있습니다.
 데이터 사이언티스트/AI 엔지니어가 되기 위해 공부하고 있습니다.
 
+## ✔ Contact
+📧 jwj51720@gmail.com
+👨‍💻 [Portfolio](https://enchanted-gum-e41.notion.site/Portfolio-b0ed1f56e0704a8ab6addb3ace4f344e) 
+📒 [Blog](https://velog.io/@jwj51720) 
 ## ✔ Experiences
 - `2020.03 ~ Present` 고려대학교 건축사회환경공학부, 컴퓨터학과
 - `2022.09 ~ 2023.02` 네이버 커넥트재단 - 부스트캠프 AI Tech 4기
