@@ -8,7 +8,8 @@
 ## ✔ Contact
 📧 jwj51720@gmail.com <br>
 👨‍💻 [Portfolio](https://enchanted-gum-e41.notion.site/Portfolio-b0ed1f56e0704a8ab6addb3ace4f344e) <br>
-📒 [Blog](https://velog.io/@jwj51720)
+📒 [Blog](https://velog.io/@jwj51720) <br>
+🌐 [LinkedIn](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%9E%A5-30497825a/)
 
 ## ✔ Experiences
 - `2020.03 ~ Present` 고려대학교 건축사회환경공학부, 컴퓨터학과
