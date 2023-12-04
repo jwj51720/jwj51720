@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwj51720&show_icons=true&theme=vue&count_private=true)
 
-## ✔ Contact
+## Sites
 👨‍💻 [Portfolio](https://enchanted-gum-e41.notion.site/Portfolio-b0ed1f56e0704a8ab6addb3ace4f344e) | 📒 [Blog](https://velog.io/@jwj51720) | 🌐 [LinkedIn](https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%9E%A5-30497825a/)
 
 ## Experiences
