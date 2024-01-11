@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - `2021.09 ~ Present` 고려대학교 중앙 컴퓨터 동아리 [KUCC](https://kucc.co.kr/)
 - `2022.09 ~ 2023.02` 네이버 커넥트재단 - 부스트캠프 AI Tech 4기
 - `2023.07 ~ Present` 고려대학교 데이터사이언스 학회 [KUBIG](http://kubigkorea.com/) - 18기
-- `2023.11 ~ Present` [LIMLAB, Korea Univ. STAT](https://www.sungbin-lim.net/LIM) Research Intern
+- `2023.11 ~ 2023.12` [LIMLAB, Korea Univ. STAT](https://www.sungbin-lim.net/LIM) Research Intern
+- `2023.12 ~ Present` 진학사 합격예측팀 데이터파트 인턴(NLP)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/> 
