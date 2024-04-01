@@ -22,17 +22,17 @@ Here are some ideas to get you started:
 
 ## Experiences
 - `2020.03 ~ Present` 고려대학교 건축사회환경공학부, 컴퓨터학과
-- `2021.09 ~ Present` 고려대학교 중앙 컴퓨터 동아리 [KUCC](https://kucc.co.kr/)
+- `2022.03 ~ 2023.07` 고려대학교 중앙 컴퓨터 동아리 [KUCC](https://kucc.co.kr/)
 - `2022.09 ~ 2023.02` 네이버 커넥트재단 - 부스트캠프 AI Tech 4기(RecSys)
 - `2023.07 ~ Present` 고려대학교 데이터사이언스 학회 [KUBIG](http://kubigkorea.com/) - 18기
 - `2023.11 ~ 2023.12` [LIMLAB, Korea Univ. STAT](https://www.sungbin-lim.net/LIM) Research Intern
-- `2023.12 ~ Present` 진학사 합격예측팀 데이터파트 인턴(NLP)
+- `2023.12 ~ Present` 진학사 합격예측팀/AI팀 데이터파트 인턴(NLP, LLM)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
